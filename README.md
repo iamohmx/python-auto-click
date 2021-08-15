@@ -14,7 +14,9 @@ and then you have to install < pip install pynput > for use this program
 ==== how to use web selenium ==== 
 
 -install pip before-
+
 pip install selenium
 
 -install selenium Devtool-
+
 http://chromedriver.storage.googleapis.com/index.html
