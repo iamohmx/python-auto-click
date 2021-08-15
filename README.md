@@ -1,2 +1,5 @@
 # python-code
-Python Code
+
+====Python Auto Click======
+Press S for Start/Stop
+Press E for Exit from program
